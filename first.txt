@@ -3,3 +3,8 @@ Our best thoughts came from other.
 It is not what we say or think that defines us, but what we do.
 this is the end of the file. ca 1820-1840  
 >>>>>>> lincoln
+
+Four score and seven years ago our fathers brought forth on this continent,
+a new nation, conceived in Libety, and dedicated to the proposition that 
+all men are created equal.
+
